@@ -56,3 +56,5 @@ AaveWalletScoring/
 .scores.csv → output with all wallet scores.
 
 #OUTPUT
+
+<img width="1539" height="521" alt="Image" src="https://github.com/user-attachments/assets/b9857df6-f4b2-429f-9fd2-1422feaf306f" />
